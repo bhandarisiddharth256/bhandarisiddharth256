@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Siddharth 👋
 
-<!--
-**bhandarisiddharth256/bhandarisiddharth256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Software Developer focused on Backend and Full Stack Development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- C++
+- JavaScript
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- SQL
+- Data Structures & Algorithms
+
+---
+
+## 🚀 Areas of Interest
+
+- Backend Development
+- Scalable API Design
+- Database Optimization
+- System Design Fundamentals
+
+---
+
+## 📈 Problem Solving
+
+- Strong understanding of Time & Space Complexity
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/siddharthbhandari0911/
