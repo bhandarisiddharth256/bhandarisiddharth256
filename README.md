@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/siddharthbhandari0911/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/siddharth0911/">
+  <!-- <a href="https://leetcode.com/u/siddharth0911/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  </a> -->
   <a href="mailto:bhandarisiddharth256@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
