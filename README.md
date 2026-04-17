@@ -80,17 +80,6 @@
 
 ---
 
-## 🚀 Featured Work
-
-### 💬 Real-Time Chat App
-
-* 1-1 + Group Chat
-* Unread message logic
-* Secure JWT authentication
-* (Upcoming) AI Search & Translation
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
