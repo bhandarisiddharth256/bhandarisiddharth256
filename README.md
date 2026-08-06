@@ -154,27 +154,6 @@ Backend Engineer • MERN Stack Developer • Competitive Programmer
 - 🤖 AI-powered Backend Applications
 - 🚀 High Performance APIs
 
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:bhandarisiddharth256@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/siddharthbhandari0911/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/bhandarisiddharth256">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 <h3 align="center">
 
